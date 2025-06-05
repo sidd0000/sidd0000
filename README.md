@@ -60,9 +60,7 @@
 
 ## 🏆 Featured AI Projects:
 
-<div align="right">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250" height="200"/>
-</div>
+
 
 ### 🎓 AI Tutor Agent | React, LangChain, LangGraph, OpenAI, Flask
 - Built an intelligent tutoring system with multi-LLM support (Groq, GPT-4, Claude)<br>- Implemented context-aware conversations using LangChain framework and LangGraph orchestration<br>- Created dynamic role-based prompting system for personalized learning experiences<br>- Developed responsive React frontend with Flask API backend for real-time AI interactions<br>
@@ -70,9 +68,7 @@
 ### 📝 AI-Based Handwriting Answer Sheet Checker | Python, Django, Deep Learning, OpenCV, LangChain
 - Engineered automated grading system using CNN models and Tesseract OCR technology<br>- Integrated computer vision preprocessing with OpenCV for enhanced text extraction accuracy<br>- Leveraged LangChain for intelligent answer evaluation and natural language scoring<br>- Implemented Gemini API for contextual understanding of student handwritten responses<br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" width="350" height="200"/>
-</div>
+
 
 ### 💪 FITAI - AI Fitness Platform | React, Flask, Deep Learning, MongoDB
 - Built real-time posture correction system using computer vision and pose estimation<br>- Developed personalized workout recommendations with ML algorithms and user behavior analysis<br>- Implemented injury prevention analysis through movement pattern recognition with OpenCV<br>- **🥉 3rd Place Winner at Microsoft Hackathon** for AI Innovation in Fitness Technology<br>
